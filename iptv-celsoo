@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="AeE" tvg-name="A&E" tvg-logo="http://img.starbr.in/1559753182_4b72d6156df91099369211265277cf98ca748194.jpg" group-title="Variedades e Musicas",A&E
-#EXTM3U
-#EXTINF:-1 tvg-id="AeE" tvg-name="A&E" tvg-logo="http://img.starbr.in/1559753182_4b72d6156df91099369211265277cf98ca748194.jpg" group-title="Variedades e Musicas",A&E
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/globosp_cfe21c68_05a3d7179f4c8a819dacb270d00319455b948d4d/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A&E FULL HD" tvg-logo="http://img.starbr.in/1559753182_4b72d6156df91099369211265277cf98ca748194.jpg" group-title="Variedades e Musicas",A&E FULL HD
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/globosp_cfe21c68_05a3d7179f4c8a819dacb270d00319455b948d4d/playlist.m3u8
